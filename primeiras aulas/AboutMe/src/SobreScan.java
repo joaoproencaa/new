@@ -19,5 +19,6 @@ public class SobreScan {
         System.out.println("Oi! Eu me chamo " + nome);
         System.out.println("Minha altura eh " + altura + " m.");
         System.out.println("Minha idade eh " + idade + " anos.");
+        scanner.close();
     }
 }

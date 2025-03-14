@@ -42,7 +42,7 @@ public class ContaTerminal {
             }
         }
 
-        System.out.println("Finalizando...\n");
+        System.out.println("\nFinalizando...\n");
         System.out.println(nomeCliente + ", obrigado por se registrar em nosso Banco. Repassando os dados:\n");
         System.out.println("NÚMERO DA CONTA: " + numeroConta);
         System.out.println("NÚMERO DA AGENCIA: " + agenciaConta);
